@@ -1,1 +1,1 @@
-5) Fazer uma função que retorne o nome da aluna com maior nota
+5) Fazer uma função que retorne o nome da aluna com a maior media
