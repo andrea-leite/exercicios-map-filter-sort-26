@@ -1,4 +1,4 @@
-4) Fazer uma função que retorne um array de objetos:
+4) Fazer uma função que receba a lista pre constuida retorne um array de objetos com as seguintes propriedades:
 ```javascript
   [
       { 
@@ -8,18 +8,7 @@
       }
   ] 
 ```
-Exemplo
-
-Entrada:
-```javascript
-  [
-      { nome: "Ashley", prova: { p1: 5.6, p2: 6.7, p3: 9 } },
-      { nome: "Sabrina", prova: { p1: 6.3, p2: 7.5, p3: 10 } },
-      { nome: "Samantha", prova: { p1: 3, p2: 6.2, p3: 6 } }
-  ]
-```
-
-Saída:
+Exemplo de saída: Deve ser feito calculo de media e retornada as seguintes informações de cada aluna:
 ```javascript
   [
       { nome: "Ashley", media: 7.1, aprovada: true },
